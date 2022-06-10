@@ -1,0 +1,12 @@
+Name	Index	Opaque	Reflect/trans	Color (Argb)
+STD Int wall	"{0;0;*}"	TRUE	0.5	255, 200, 200, 200
+STD: Ext wall	"{0;1;*}"	TRUE	0.2	255, 128, 128, 128
+STD Roof	"{1;*}"	TRUE	0.1	255, 70, 70, 70
+STD Floor	"{2;*}"	TRUE	0.2	255, 128, 128, 128
+STD Ceiling	"{3;*}"	TRUE	0.7	255, 255, 255, 255
+STD Int glz	"{5;2;*}"	FALSE	0.8	160, 100, 125, 200
+STD Shading	"{6;*}"	TRUE	0.2	255, 180, 180, 180
+STD Frames/Mullions	"{11;*}"	TRUE	0.7	255, 200, 200, 200
+STD Doors	"{12;*}"	TRUE	0.5	255, 180, 180, 180
+STD Context	"{20;*}"	TRUE	0.2	255, 22, 122, 158
+STD Terrain	"{30;*}"	TRUE	0.1	255, 100, 135, 90
